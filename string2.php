@@ -16,7 +16,7 @@
     $num1 = 11;
     $num2 = 15;
     $summ = add($num1. $num2);
-    echo "$num1 + $nnum2 = " . $summ;
+    echo "$num1 + $num2 = " . $summ;
     ?>
 </body>
 </html>
