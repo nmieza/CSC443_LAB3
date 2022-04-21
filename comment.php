@@ -10,8 +10,8 @@
     <?php 
     // This is a comment
     // echo "X equals $x";
-    $x = $x + 10; // Increment $x by 10
-    echo $x;
+    // Increment $x by 10
+    
     /* This is a section of multiline comments that will not be interpreted */
     ?>
 </body>
