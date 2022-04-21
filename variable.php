@@ -15,7 +15,7 @@
     echo $current_user;
     echo "<br />";
     $num1 = 10.5;
-    echo $num1;
+    echo $num1; 
     ?>
 </body>
 </html>
